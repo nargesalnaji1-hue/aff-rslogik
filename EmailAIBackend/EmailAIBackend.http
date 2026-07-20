@@ -1,0 +1,6 @@
+@EmailAIBackend_HostAddress = http://localhost:5064
+
+GET {{EmailAIBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
